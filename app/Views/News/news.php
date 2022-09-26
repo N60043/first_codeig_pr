@@ -8,8 +8,6 @@
         width: 400px;
         height: auto;
         overflow: scroll;
-        margin:auto;
-        float:left;
      }
   </style>
  
